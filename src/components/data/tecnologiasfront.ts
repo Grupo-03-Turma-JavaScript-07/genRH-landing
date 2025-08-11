@@ -18,6 +18,6 @@ export const tecnologiasFront = [
   {
     id: 4,
     nome: "Yarn",
-    pic: "https://ik.imagekit.io/gengrupo03/landing-rh/images.png?updatedAt=1754878404037",
+    pic: "https://ik.imagekit.io/gengrupo03/landing-rh/yarn.png?updatedAt=1754930930676",
   }
 ];
