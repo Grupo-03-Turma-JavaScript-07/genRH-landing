@@ -2,12 +2,12 @@ export const tecnologiasLinguagem = [
   {
     id: 1,
     nome: "TypeScript",
-    pic: "https://ik.imagekit.io/gengrupo03/landing-rh/typescript.png?updatedAt=1754878265925",
+    pic: "https://ik.imagekit.io/gengrupo03/landing-rh/ts.png?updatedAt=1754930207529",
   },
   {
     id: 2,
     nome: "HTML",
-    pic: "https://ik.imagekit.io/gengrupo03/landing-rh/html-5.png?updatedAt=1754878265733",
+    pic: "https://ik.imagekit.io/gengrupo03/landing-rh/html.png?updatedAt=1754930207545",
 
   },
   {

@@ -2,7 +2,7 @@ export const tecnologiasBack = [
   {
     id: 1,
     nome: "NestJS",
-    pic: "https://ik.imagekit.io/gengrupo03/landing-rh/498-4989583_nestjs-logo-hd-png-download.png?updatedAt=1754878266614",
+    pic: "https://ik.imagekit.io/gengrupo03/landing-rh/nest.png?updatedAt=1754930207559",
   },
   {
     id: 2,
@@ -13,6 +13,6 @@ export const tecnologiasBack = [
   {
     id: 3,
     nome: "NPM", 
-    pic: "https://ik.imagekit.io/gengrupo03/landing-rh/npm.png?updatedAt=1754878265594",
+    pic: "https://ik.imagekit.io/gengrupo03/landing-rh/npm-1.png?updatedAt=1754930206922",
   }
 ];
